@@ -1,0 +1,15 @@
+D:\Visual\SO\SO.Service\bin\Debug\SO.Service.dll
+D:\Visual\SO\SO.Service\bin\Debug\SO.Service.pdb
+D:\Visual\SO\SO.Service\bin\Debug\SO.Common.dll
+D:\Visual\SO\SO.Service\bin\Debug\SO.Data.dll
+D:\Visual\SO\SO.Service\bin\Debug\SO.Model.dll
+D:\Visual\SO\SO.Service\bin\Debug\SO.Common.pdb
+D:\Visual\SO\SO.Service\bin\Debug\SO.Data.pdb
+D:\Visual\SO\SO.Service\bin\Debug\SO.Data.dll.config
+D:\Visual\SO\SO.Service\bin\Debug\SO.Model.pdb
+D:\Visual\SO\SO.Service\bin\Debug\SO.Model.dll.config
+D:\Visual\SO\SO.Service\obj\Debug\SO.Service.csproj.AssemblyReference.cache
+D:\Visual\SO\SO.Service\obj\Debug\SO.Service.csproj.CoreCompileInputs.cache
+D:\Visual\SO\SO.Service\obj\Debug\SO.Service.csproj.CopyComplete
+D:\Visual\SO\SO.Service\obj\Debug\SO.Service.dll
+D:\Visual\SO\SO.Service\obj\Debug\SO.Service.pdb

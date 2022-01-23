@@ -1,0 +1,14 @@
+D:\Visual\SO\SO.Data\bin\Debug\SO.Data.dll.config
+D:\Visual\SO\SO.Data\bin\Debug\SO.Data.dll
+D:\Visual\SO\SO.Data\bin\Debug\SO.Data.pdb
+D:\Visual\SO\SO.Data\bin\Debug\EntityFramework.dll
+D:\Visual\SO\SO.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\SO\SO.Data\bin\Debug\SO.Common.dll
+D:\Visual\SO\SO.Data\bin\Debug\SO.Common.pdb
+D:\Visual\SO\SO.Data\bin\Debug\EntityFramework.xml
+D:\Visual\SO\SO.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\SO\SO.Data\obj\Debug\SO.Data.csproj.AssemblyReference.cache
+D:\Visual\SO\SO.Data\obj\Debug\SO.Data.csproj.CoreCompileInputs.cache
+D:\Visual\SO\SO.Data\obj\Debug\SO.Data.csproj.CopyComplete
+D:\Visual\SO\SO.Data\obj\Debug\SO.Data.dll
+D:\Visual\SO\SO.Data\obj\Debug\SO.Data.pdb

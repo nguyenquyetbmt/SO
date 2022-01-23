@@ -1,0 +1,6 @@
+D:\Visual\SO\SO.Common\bin\Debug\SO.Common.dll
+D:\Visual\SO\SO.Common\bin\Debug\SO.Common.pdb
+D:\Visual\SO\SO.Common\obj\Debug\SO.Common.csproj.AssemblyReference.cache
+D:\Visual\SO\SO.Common\obj\Debug\SO.Common.csproj.CoreCompileInputs.cache
+D:\Visual\SO\SO.Common\obj\Debug\SO.Common.dll
+D:\Visual\SO\SO.Common\obj\Debug\SO.Common.pdb
