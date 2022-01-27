@@ -11,8 +11,11 @@ namespace SO.Model.Models
         public int Id { get; set; }
 
         [Required]
+        [MaxLength(50)]
+        [Column(TypeName = "varchar")]
         public string Code { get; set; }
 
+        [MaxLength(50)]
         public string ValueString { get; set; }
 
         public int? ValueInt { get; set; }

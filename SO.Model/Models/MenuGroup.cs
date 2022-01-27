@@ -8,8 +8,11 @@ namespace SO.Model.Models
     public class MenuGroup
     {
         [Key]
-        public string Id { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int Id { get; set; }
 
+        [Required]
+        [MaxLength(50)] 
         public string Name { get; set; }
 
         public virtual IEnumerable<Menu> Menus { get; set; }

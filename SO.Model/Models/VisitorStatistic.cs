@@ -12,7 +12,7 @@ namespace SO.Model.Models
 
         public DateTime VisitedDate { get; set; }
 
-        [Required]
+        [MaxLength(50)]
         public string IPAddress { get; set; }
     }
 }

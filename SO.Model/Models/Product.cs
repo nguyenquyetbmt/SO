@@ -14,9 +14,12 @@ namespace SO.Model.Models
         public int Id { get; set; }
 
         [Required]
+        [MaxLength(256)]
         public string Name { get; set; }
 
         [Required]
+        [MaxLength(256)]
+        [Column(TypeName = "varchar")]
         public string Alias { get; set; }
 
         public int CatelogyId { get; set; }
@@ -24,6 +27,7 @@ namespace SO.Model.Models
         [ForeignKey("CategoryId")]
         public virtual ProductCategory ProductCategory { get; set; }
 
+        [MaxLength(256)]
         public string Image { get; set; }
         public decimal Price { get; set; }
         public decimal? Promotion { get; set; }

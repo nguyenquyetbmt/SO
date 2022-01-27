@@ -8,9 +8,15 @@ namespace SO.Model.Models
     public class Tag
     {
         [Key]
+        [MaxLength(50)]
         public string Id { get; set; }
 
+        [Required]
+        [MaxLength(50)]
         public string Name { get; set; }
+
+        [Required]
+        [MaxLength(50)]
         public string Type { get; set; }
 
         public virtual IEnumerable<PostTag> PostTags { get; set; }

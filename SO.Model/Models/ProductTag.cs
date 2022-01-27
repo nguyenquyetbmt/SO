@@ -14,6 +14,8 @@ namespace SO.Model.Models
 
         [Key]
         [Required]
+        [Column(TypeName = "varchar")]
+        [MaxLength(50)]
         public string TagId { get; set; }
 
         [ForeignKey("TagId")]
