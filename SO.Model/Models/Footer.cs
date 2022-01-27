@@ -8,7 +8,7 @@ namespace SO.Model.Models
     {
         [Key]
         public string Id { get; set; }
-        [Required]
+
         public string Content { get; set; }
     }
 }
