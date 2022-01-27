@@ -10,3 +10,15 @@ D:\Visual\SO\SO.Model\obj\Debug\SO.Model.csproj.CoreCompileInputs.cache
 D:\Visual\SO\SO.Model\obj\Debug\SO.Model.csproj.CopyComplete
 D:\Visual\SO\SO.Model\obj\Debug\SO.Model.dll
 D:\Visual\SO\SO.Model\obj\Debug\SO.Model.pdb
+D:\Visual\Git\SO.Model\bin\Debug\SO.Model.dll.config
+D:\Visual\Git\SO.Model\bin\Debug\SO.Model.dll
+D:\Visual\Git\SO.Model\bin\Debug\SO.Model.pdb
+D:\Visual\Git\SO.Model\bin\Debug\EntityFramework.dll
+D:\Visual\Git\SO.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\Git\SO.Model\bin\Debug\EntityFramework.xml
+D:\Visual\Git\SO.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\Git\SO.Model\obj\Debug\SO.Model.csproj.AssemblyReference.cache
+D:\Visual\Git\SO.Model\obj\Debug\SO.Model.csproj.CoreCompileInputs.cache
+D:\Visual\Git\SO.Model\obj\Debug\SO.Model.csproj.CopyComplete
+D:\Visual\Git\SO.Model\obj\Debug\SO.Model.dll
+D:\Visual\Git\SO.Model\obj\Debug\SO.Model.pdb
