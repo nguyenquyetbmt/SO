@@ -5,7 +5,12 @@
       "ProjectGuid": "66c5431e-46f9-4d73-b399-b7780b313cc1",
       "DisplayName": "SO.Common",
       "ColorIndex": 0
+    },
+    "0a9df53b-af7a-4203-ba78-b758b0a085b7": {
+      "ProjectGuid": "0a9df53b-af7a-4203-ba78-b758b0a085b7",
+      "DisplayName": "SO.Model",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
