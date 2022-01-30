@@ -64,7 +64,22 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Respositories\OrderRepository.cs" />
+    <Compile Include="Respositories\MenuGroupRepository.cs" />
+    <Compile Include="Respositories\MenuRepository.cs" />
     <Compile Include="Respositories\ProductCategoryRepository.cs" />
+    <Compile Include="Respositories\FooterRepository.cs" />
+    <Compile Include="Respositories\OrderDetailRepository.cs" />
+    <Compile Include="Respositories\PageRepository.cs" />
+    <Compile Include="Respositories\PostRepository.cs" />
+    <Compile Include="Respositories\PostCategoryRepository.cs" />
+    <Compile Include="Respositories\PostTagRepository.cs" />
+    <Compile Include="Respositories\VisitorStatisticRepository.cs" />
+    <Compile Include="Respositories\TagRepository.cs" />
+    <Compile Include="Respositories\SystemConfigRepository.cs" />
+    <Compile Include="Respositories\SupportOnlineRepository.cs" />
+    <Compile Include="Respositories\SlideRepository.cs" />
+    <Compile Include="Respositories\ProductTagRepository.cs" />
     <Compile Include="Respositories\ProductRepository.cs" />
     <Compile Include="SODbContext.cs" />
   </ItemGroup>
