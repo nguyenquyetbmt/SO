@@ -6,7 +6,7 @@ namespace SO.Model.Models
     [Table("ProductTags")]
     public class ProductTag
     {
-        [Key]
+        [Key, Column(Order = 1)]
         public int ProductId { get; set; }
 
         [ForeignKey("ProductId")]
@@ -14,7 +14,7 @@ namespace SO.Model.Models
 
         [Key]
         [Required]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "varchar", Order = 2)]
         [MaxLength(50)]
         public string TagId { get; set; }
 

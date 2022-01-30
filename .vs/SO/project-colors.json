@@ -10,7 +10,17 @@
       "ProjectGuid": "0a9df53b-af7a-4203-ba78-b758b0a085b7",
       "DisplayName": "SO.Model",
       "ColorIndex": 1
+    },
+    "a001e98e-a8c5-45ec-a9ff-4e467d1499b7": {
+      "ProjectGuid": "a001e98e-a8c5-45ec-a9ff-4e467d1499b7",
+      "DisplayName": "SO.Data",
+      "ColorIndex": 2
+    },
+    "30bd47b4-99fe-4f57-bb9c-77c040b4d87b": {
+      "ProjectGuid": "30bd47b4-99fe-4f57-bb9c-77c040b4d87b",
+      "DisplayName": "SO.Web",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

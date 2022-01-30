@@ -6,7 +6,7 @@ namespace SO.Model.Models
     [Table("PostTags")]
     public class PostTag
     {
-        [Key]
+        [Key, Column(Order = 1)]
         public int PostId { get; set; }
 
         [ForeignKey("PostId")]
@@ -14,7 +14,7 @@ namespace SO.Model.Models
 
         [Key]
         [Required]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "varchar", Order = 2)]
         [MaxLength(50)]
         public string TagId { get; set; }
 

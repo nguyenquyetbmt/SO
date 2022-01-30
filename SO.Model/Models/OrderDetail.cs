@@ -6,13 +6,13 @@ namespace SO.Model.Models
     [Table("OrderDetails")]
     public class OrderDetail
     {
-        [Key]
+        [Key, Column(Order = 1)]
         public int OrderId { get; set; }
 
         [ForeignKey("OrderId")]
         public virtual Order Order { get; set; }
 
-        [Key]
+        [Key, Column(Order = 2)]
         public int ProductId { get; set; }
 
         [ForeignKey("ProductId")]

@@ -29,3 +29,5 @@ D:\Visual\Git\SO.Data\obj\Debug\SO.Data.csproj.CoreCompileInputs.cache
 D:\Visual\Git\SO.Data\obj\Debug\SO.Data.csproj.CopyComplete
 D:\Visual\Git\SO.Data\obj\Debug\SO.Data.dll
 D:\Visual\Git\SO.Data\obj\Debug\SO.Data.pdb
+D:\Visual\Git\SO.Data\obj\Debug\SO.Data.Migrations.ERD.resources
+D:\Visual\Git\SO.Data\obj\Debug\SO.Data.csproj.GenerateResource.cache

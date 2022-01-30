@@ -30,5 +30,6 @@ namespace SO.Model.Models
         public string Taget { get; set; }
 
         public bool Status { get; set; }
+        public int avx { get; set; }
     }
 }

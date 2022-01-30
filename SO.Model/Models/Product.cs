@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Xml.Linq;
 
 namespace SO.Model.Models
 {
@@ -22,17 +21,21 @@ namespace SO.Model.Models
         [Column(TypeName = "varchar")]
         public string Alias { get; set; }
 
-        public int CatelogyId { get; set; }
+        public int CategoryId { get; set; }
 
         [ForeignKey("CategoryId")]
         public virtual ProductCategory ProductCategory { get; set; }
 
         [MaxLength(256)]
         public string Image { get; set; }
+
         public decimal Price { get; set; }
         public decimal? Promotion { get; set; }
         public int? Warranty { get; set; }
-        public XElement MoreImages { get; set; }
+
+        [Column(TypeName = "xml")]
+        public string MoreImages { get; set; }
+
         public string Description { get; set; }
         public string Content { get; set; }
         public bool? HomeFlag { get; set; }
