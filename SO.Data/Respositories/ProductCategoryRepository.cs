@@ -8,7 +8,7 @@ namespace SO.Data.Respositories
 {
     public class ProductCategoryRepository : RepositoryBase<ProductCategory>, IProductCategoryRespsitory
     {
-        public interface IProductCategoryRespsitory
+        public interface IProductCategoryRespsitory : IRepository<ProductCategory>
         {
             IEnumerable<ProductCategory> GetByAlias(string alias);
         }

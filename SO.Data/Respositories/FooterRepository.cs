@@ -3,7 +3,7 @@ using SO.Model.Models;
 
 namespace SO.Data.Respositories
 {
-    public interface IFooterRepository
+    public interface IFooterRepository : IRepository<Footer>
     {
     }
 

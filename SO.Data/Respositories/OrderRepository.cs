@@ -3,7 +3,7 @@ using SO.Model.Models;
 
 namespace SO.Data.Respositories
 {
-    public interface IOrderRepository
+    public interface IOrderRepository : IRepository<Order>
     {
     }
 
