@@ -20,7 +20,12 @@
       "ProjectGuid": "30bd47b4-99fe-4f57-bb9c-77c040b4d87b",
       "DisplayName": "SO.Web",
       "ColorIndex": 3
+    },
+    "e8004e9d-7ad0-4a98-8499-80ce77f22b4e": {
+      "ProjectGuid": "e8004e9d-7ad0-4a98-8499-80ce77f22b4e",
+      "DisplayName": "SO.Service",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
